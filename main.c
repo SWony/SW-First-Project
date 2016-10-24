@@ -2,7 +2,7 @@
 
 int main(void)
 {
-printf("Hello World.");
-
-return 0;
+ printf("Hello World.\n");
+ printf("First Github Project!");
+ return 0;
 }
